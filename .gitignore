@@ -155,3 +155,5 @@ cython_debug/
 .vs/
 *.sln
 *.eps
+*.pdf
+/cutoff_dataframe
