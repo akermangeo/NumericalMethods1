@@ -157,3 +157,4 @@ cython_debug/
 *.eps
 *.pdf
 /cutoff_dataframe
+/perf_optimized
